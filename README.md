@@ -10,8 +10,6 @@ Aplicación de consola interactiva, con opciones que se puedan seleccionar con l
 
 
 
-Para correr el proyecto, en terminal:
+Script para iniciar:
 ```shell
-> node app
-
-
+> npm start
