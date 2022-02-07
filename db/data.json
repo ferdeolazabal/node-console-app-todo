@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "2c67f52b-2880-4963-b7ba-ae131525a27c",
+    "descripcion": "practicar node",
+    "completadoEn": "2022-02-07T07:05:09.522Z"
+  },
+  {
+    "id": "b0cad51c-ed32-45da-a3f1-68ae99906f52",
+    "descripcion": "practicar js",
+    "completadoEn": null
+  },
+  {
+    "id": "e167fe5b-6bb0-4dbe-8f67-c09d6443a963",
+    "descripcion": "practicar react",
+    "completadoEn": null
+  }
+]
