@@ -8,7 +8,7 @@ Aplicación de consola interactiva, con opciones que se puedan seleccionar con l
 ![List prompt](https://github.com/ferdeolazabal/node-console-app-todo/blob/screen/screenshoots/node%20todo.png)
 
 
-###Scripts disponibles
+### Scripts disponibles
 
 Script para instalar dependencias:
 ```shell
