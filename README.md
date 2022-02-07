@@ -1,7 +1,6 @@
 # Aplicación de gestión de tareas en Node.js
 
-Aplicación de consola interactiva, con opciones que se puedan seleccionar con las teclas direccionales, números y con la tecla espaciadora cuando hay multiples opciones.
-Agregar tareas, listarlas finalizadas e incompletas, marcarlas y desmarcarlas como finalizadas.
+Aplicación de consola interactiva, con opciones que se pueden seleccionar con las teclas direccionales, números y con la tecla espaciadora cuando hay multiples opciones; para agregar tareas, listarlas, marcarlas y desmarcarlas como finalizadas.
 
 
 ![List prompt](https://github.com/ferdeolazabal/node-console-app-todo/blob/screen/screenshoots/1.png)
