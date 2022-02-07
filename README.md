@@ -10,11 +10,11 @@ Aplicación de consola interactiva, con opciones que se puedan seleccionar con l
 
 ### Scripts disponibles
 
-Script para instalar dependencias:
+Instalar dependencias:
 ```shell
 > npm install
 ```
 
-Script para iniciar:
+Iniciar:
 ```shell
 > npm start
