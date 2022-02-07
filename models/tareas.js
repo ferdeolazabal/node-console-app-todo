@@ -58,7 +58,7 @@ class Tareas {
 
     listarPendientesCompletadas( completadas = false ){
             
-        console.log('\nListando tareas pendientes...\n'.trap);
+        console.log('\nListando tareas finalizadas...\n'.trap);
         let contador = 0;
         Object.values( this._listado ).forEach( (tarea, index) => {
 
